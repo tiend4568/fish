@@ -1,24 +1,24 @@
 {
     "items": [{
-        "name": "Flimsy Fishing Rod",
-        "price": 1500,
+        "name": "Cần câu giấy",
+        "price": 2000,
         "time": 1200,
-        "duribility": 10
+        "duribility": 9
     },
     {
-        "name": "Fishing Rod",
-        "price": 3000,
+        "name": "Cần câu sắt",
+        "price": 4000,
         "time": 600,
-        "duribility": 20
+        "duribility": 21
     },
     {
-        "name": "Fine Fishing Rod",
+        "name": "Cần câu vàng",
         "price": 7500,
         "time": 120,
-        "duribility": 20
+        "duribility": 41
     },
     {
-        "name": "Fishing Rod Made In VIETNAM",
+        "name": "Cần câu hình thuốc lào",
         "price": 100000,
         "time": 5,
         "duribility": 2000
