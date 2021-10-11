@@ -18,7 +18,7 @@
         "duribility": 41
     },
     {
-        "name": "Cần câu hình thuốc lào",
+        "name": "Cần câu hình thuốc lào MADE IN VN",
         "price": 100000,
         "time": 5,
         "duribility": 2000
